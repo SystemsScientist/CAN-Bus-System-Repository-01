@@ -13,7 +13,7 @@ in this repository for your consumption and edification.
 
 ~ Matt Johnson
 
-## CAN Bus Basics Webpages
+## CAN Bus Basics - Online Articles
 
 ### NAPA Auto Parts Blog
 <a target="_blank" title="CAN Bus System: Understanding the Basics" href="https://knowhow.napaonline.com/can-bus-system-understanding-basics/">NAPA Blog - CAN Bus System: Understanding the Basics</a>
