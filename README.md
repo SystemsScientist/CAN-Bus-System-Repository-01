@@ -16,7 +16,7 @@ in this repository for your consumption and edification.
 ## CAN Bus Basics Webpages
 
 ### NAPA Auto Parts Blog
-<a target="_blank" title="CAN Bus System: Understanding the Basics" href="https://knowhow.napaonline.com/can-bus-system-understanding-basics/">NAPA Blog</a>
+<a target="_blank" title="CAN Bus System: Understanding the Basics" href="https://knowhow.napaonline.com/can-bus-system-understanding-basics/">NAPA Blog - CAN Bus System: Understanding the Basics</a>
 
 
 
