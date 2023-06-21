@@ -15,9 +15,9 @@ in this repository for your consumption and edification.
 
 ## CAN Bus Basics - Online Articles
 
-For beginners, the following reading path is recommended. First, read the 
-NAPA Blog article; second, read the Wikipedia article; and third, read
-the AUTOSARTutorials.com article.
+For beginners, the following reading path for the online articles is recommended. 
+First, read the NAPA Blog article; second, read the Wikipedia article; and third, 
+read the AUTOSARTutorials.com article.
 
 ### AUTOSAR Tutorials.com
 <a target="_blank" title="Network Dependent Block of Communication Stack for CAN" href="https://autosartutorials.com/communication-stack-can/">AUTOSAR Tutorials.com - Network Dependent Block of Communication Stack for CAN</a>
