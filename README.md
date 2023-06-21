@@ -15,10 +15,14 @@ in this repository for your consumption and edification.
 
 ## CAN Bus Basics - Online Articles
 
+### AUTOSAR Tutorials.com
+<a target="_blank" title="Network Dependent Block of Communication Stack for CAN" href="https://autosartutorials.com/communication-stack-can/">AUTOSAR Tutorials.com - Network Dependent Block of Communication Stack for CAN</a>
+
 ### NAPA Auto Parts Blog
 <a target="_blank" title="CAN Bus System: Understanding the Basics" href="https://knowhow.napaonline.com/can-bus-system-understanding-basics/">NAPA Blog - CAN Bus System: Understanding the Basics</a>
 
 ### Wikipedia
-<a target="_blank" title="Can bus" href="https://en.wikipedia.org/wiki/CAN_bus">Wikipedia - Can bus</a>
+<a target="_blank" title="Can bus" href="https://en.wikipedia.org/wiki/CAN_bus">Wikipedia - Can bus</a
+>
 
 
