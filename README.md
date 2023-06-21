@@ -22,7 +22,11 @@ For beginners, the following reading path for the online articles is recommended
 	(3) AUTOSARTutorials.com article
  
 First, read the NAPA Blog article; second, read the Wikipedia article; and third, 
-read the AUTOSARTutorials.com article.
+read the AUTOSARTutorials.com article. And finally, read the AutoPi.com article
+for a comprehensive overview of CAN Bus.
+
+### AutoPi.io
+<a target="_blank" title="CAN Bus Protocol: The Ultimate Guide (2023)" href="https://www.autopi.io/blog/can-bus-explained/">AutoPi.io - CAN Bus Protocol: The Ulitmate Guide (2023)</a>
 
 ### AUTOSAR Tutorials.com
 <a target="_blank" title="Network Dependent Block of Communication Stack for CAN" href="https://autosartutorials.com/communication-stack-can/">AUTOSAR Tutorials.com - Network Dependent Block of Communication Stack for CAN</a>
