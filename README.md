@@ -15,7 +15,12 @@ in this repository for your consumption and edification.
 
 ## CAN Bus Basics - Online Articles
 
-For beginners, the following reading path for the online articles is recommended. 
+For beginners, the following reading path for the online articles is recommended:
+
+	(1) NAPA Blog article
+	(2) Wikipedia article
+	(3) AUTOSARTutorials.com article
+ 
 First, read the NAPA Blog article; second, read the Wikipedia article; and third, 
 read the AUTOSARTutorials.com article.
 
